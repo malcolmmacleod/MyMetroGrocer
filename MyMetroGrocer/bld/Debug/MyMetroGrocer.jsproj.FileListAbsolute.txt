@@ -1,0 +1,13 @@
+C:\Users\mal.000\Documents\Visual Studio 11\Projects\MyMetroGrocer\MyMetroGrocer\bin\Debug\resources.pri
+C:\Users\mal.000\Documents\Visual Studio 11\Projects\MyMetroGrocer\MyMetroGrocer\bin\Debug\AppxManifest.xml
+C:\Users\mal.000\Documents\Visual Studio 11\Projects\MyMetroGrocer\MyMetroGrocer\bin\Debug\MyMetroGrocer.build.appxrecipe
+C:\Users\mal.000\Documents\Visual Studio 11\Projects\MyMetroGrocer\MyMetroGrocer\bld\Debug\priconfig.xml
+C:\Users\mal.000\Documents\Visual Studio 11\Projects\MyMetroGrocer\MyMetroGrocer\bld\Debug\layout.resfiles
+C:\Users\mal.000\Documents\Visual Studio 11\Projects\MyMetroGrocer\MyMetroGrocer\bld\Debug\resources.resfiles
+C:\Users\mal.000\Documents\Visual Studio 11\Projects\MyMetroGrocer\MyMetroGrocer\bld\Debug\pri.resfiles
+C:\Users\mal.000\Documents\Visual Studio 11\Projects\MyMetroGrocer\MyMetroGrocer\bld\Debug\LanguageQualifiers.txt
+C:\Users\mal.000\Documents\Visual Studio 11\Projects\MyMetroGrocer\MyMetroGrocer\bld\Debug\ProjectArchitectures.txt
+C:\Users\mal.000\Documents\Visual Studio 11\Projects\MyMetroGrocer\MyMetroGrocer\bld\Debug\priconfig.xml.intermediate
+C:\Users\mal.000\Documents\Visual Studio 11\Projects\MyMetroGrocer\MyMetroGrocer\bld\Debug\layout.resfiles.intermediate
+C:\Users\mal.000\Documents\Visual Studio 11\Projects\MyMetroGrocer\MyMetroGrocer\bld\Debug\resources.resfiles.intermediate
+C:\Users\mal.000\Documents\Visual Studio 11\Projects\MyMetroGrocer\MyMetroGrocer\bld\Debug\pri.resfiles.intermediate
