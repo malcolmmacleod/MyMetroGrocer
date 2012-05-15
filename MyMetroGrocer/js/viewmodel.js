@@ -4,6 +4,9 @@
 (function () {
     "use strict";
 
+    var shoppingItemsList = new WinJS.Binding.List();
+    var preferredStoresList = new WinJS.Binding.List();
+
     WinJS.Namespace.define("ViewModel", 
         {UserData: WinJS.Binding.as({
             // private members
@@ -14,19 +17,19 @@
             homeZipCode: null,
 
             getStores: function () {
-                return this._preferredStores;
+                return preferredStoresList;
             },
 
             addStore: function (newStore) {
-                this._preferredStores.push(newStore);
+                preferredStoresList.push(newStore);
             },
 
             getItems: function () {
-                return this._shoppingItems;
+                return shoppingItemsList;
             },
 
             addItem: function (newName, newQuantity, newStore) {
-                this._shoppingItems.push({
+                shoppingItemsList.push({
                     item: newName,
                     quantity: newQuantity,
                     store: newStore

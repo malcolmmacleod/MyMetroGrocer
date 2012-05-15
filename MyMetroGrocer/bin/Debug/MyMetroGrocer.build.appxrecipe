@@ -15,7 +15,7 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\mal.000\Documents\Visual Studio 11\Projects\MyMetroGrocer\MyMetroGrocer\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2012-05-13T13:27:56.013</Modified>
+      <Modified>2012-05-15T15:30:21.604</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mal.000\Documents\Visual Studio 11\Projects\MyMetroGrocer\MyMetroGrocer\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
@@ -35,11 +35,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mal.000\Documents\Visual Studio 11\Projects\MyMetroGrocer\MyMetroGrocer\js\default.js">
       <PackagePath>js\default.js</PackagePath>
-      <Modified>2012-05-13T13:25:04.929</Modified>
+      <Modified>2012-05-15T15:34:18.299</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mal.000\Documents\Visual Studio 11\Projects\MyMetroGrocer\MyMetroGrocer\js\viewmodel.js">
       <PackagePath>js\viewmodel.js</PackagePath>
-      <Modified>2012-05-12T15:49:02.224</Modified>
+      <Modified>2012-05-15T15:30:19.536</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mal.000\Documents\Visual Studio 11\Projects\MyMetroGrocer\MyMetroGrocer\css\default.css">
       <PackagePath>css\default.css</PackagePath>

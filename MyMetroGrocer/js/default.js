@@ -36,8 +36,13 @@
     function performInitialSetup(e) {
         WinJS.Binding.processAll(document.body, ViewModel);
 
-        WinJS.Utilities.query('#newZipButton').listen("click", function (e) {
-            ViewModel.UserData.homeZipCode = WinJS.Utilities.query('#newZip')[0].value;
+        WinJS.Utilities.query('button').listen("click", function (e) {
+            if (this.id == "addItemButton") {
+                ViewModel.UserData.addItem("Ice Cream", 1, "Vanilla", "Walmart");
+            }
+            else {
+                ViewModel.UserData.getItems().pop();
+            }
         });
     }
 
